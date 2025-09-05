@@ -5,7 +5,7 @@ This project was created as part of the LIS2780 Database Concepts course. The go
 
 - **Designed an Entity-Relationship Diagram (ERD) to model the doctor’s office operations.**
 - **Converted the ERD into relational tables with appropriate fields, primary keys, and relationships.**
-- **Populated the database with sample data and run example queries.**
+- **Populated the database with sample data and ran example queries with SQL.**
 
 ## The Database Supports:
 
@@ -21,4 +21,12 @@ This project was created as part of the LIS2780 Database Concepts course. The go
 - Most commonly used services
 - Suppliers providing the most frequently used supplies
 - Weekly appointment schedules per doctor
+
+## Requirements
+- Microsoft Access
+
+## How to Use
+1. Open the .accdb file in Microsoft Access.
+2. Explore the tables, relationships, and queries.
+3. Run the sample queries to generate reports.
 
