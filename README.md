@@ -9,11 +9,11 @@ This project was created as part of the LIS2780 Database Concepts course. The go
 
 ## The Database Supports:
 
-- **Managing patients, doctors, and appointments**
-- **Recording services (e.g., physical exams, minor surgeries)**
-- **Tracking supplies and their suppliers**
-- **Recording which supplies are used during appointments**
-_ **Generating useful reports and queries**
+- Managing patients, doctors, and appointments
+- Recording services (e.g., physical exams, minor surgeries)
+- Tracking supplies and their suppliers
+- Recording which supplies are used during appointments
+- Generating useful reports and queries
 
 ## The example queries: 
 - List of patients with appointments today
