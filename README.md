@@ -30,3 +30,7 @@ This project was created as part of the LIS2780 Database Concepts course. The go
 2. Explore the tables, relationships, and queries.
 3. Run the sample queries to generate reports.
 
+## Repository Contents
+- `Doctors Office Relational Database.accdb`: Final Access database file
+- `Doctors Office ERD`: A Crow's-Foot diagram, visualizing the database's design.
+- `README.md`: This file, which provides an overview of the project.
